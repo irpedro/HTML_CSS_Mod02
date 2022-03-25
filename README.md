@@ -1,6 +1,6 @@
 <h1 align="center">HTML/CSS-Mod 2</h1>
 <h3 align="center">Desafio 10 Curso HTML/CSS - Cursoemvideo</h3>
-<p align="center">Link:https://irpedro.github.io/html-css-mod_2/</p>
+<p align="center">Link:https://irpedro.github.io/HTML_CSS_Mod02/</p>
 <hr>
 <h6 align="center">Por IrPedro 👋🏻</h6>
 <hr>
